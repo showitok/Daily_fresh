@@ -9,7 +9,7 @@ importlib-metadata==0.23
 itsdangerous==1.1.0
 kombu==4.6.6
 more-itertools==7.2.0
-Pillow==6.0.0
+Pillow==6.2.0
 PyMySQL==0.9.3
 pytz==2019.3
 redis==3.2.1
